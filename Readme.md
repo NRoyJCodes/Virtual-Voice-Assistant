@@ -110,13 +110,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 
-## COPYRIGHT © 2024 Manish kumar chaubey
+## COPYRIGHT © 2024 Niharika Roy
     
     ```
     All rights reserved by Manish kumar chaubey
     ```
         
         `
+
 
 
 
