@@ -113,10 +113,11 @@ Please make sure to update tests as appropriate.
 ## COPYRIGHT © 2024 Niharika Roy
     
     ```
-    All rights reserved by Manish kumar chaubey
+    All rights reserved by Niharika Roy
     ```
         
         `
+
 
 
 
